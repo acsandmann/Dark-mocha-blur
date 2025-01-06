@@ -1,7 +1,7 @@
 ## blur themes for zed
 
 ### catppuccin mocha blur
-![mocha](./catppuccin/screenshot.png)
+![mocha](./catppuccin_mocha/screenshot.png)
 
 ### yorumi abyss blur
-![abyss](./yorumi/screenshot.png)
+![abyss](./yorumi_abyss/screenshot.png)
